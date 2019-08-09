@@ -1,0 +1,18 @@
+{
+  "name": "typeNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1",
+    "@types/node": "^12.7.1",
+    "hapi": "^18.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
